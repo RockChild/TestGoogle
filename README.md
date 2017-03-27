@@ -3,8 +3,8 @@ A tiny example testing project.
 It is created using Selenium webDriver according to PageObject pattern.
 There is only one test added to this project so far.
 
-Automated test case:
-<strong>Prerequisites:</strong>
+Automated test case:<br/>
+<strong>Prerequisites:</strong> <br/>
 Open 'https://www.google.com' and wait until page is loaded.
 <strong>Steps:</strong>
 1. Enter 'Selenium' in search input.
